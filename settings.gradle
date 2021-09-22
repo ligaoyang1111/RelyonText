@@ -1,2 +1,2 @@
-include ':app', ':relyontext'
+include ':app', ':relyontext', ':time'
 rootProject.name='My Application'
